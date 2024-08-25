@@ -36,6 +36,7 @@
 		D70BBD822C7B7E24001CDA49 = {
 			isa = PBXGroup;
 			children = (
+				D70BBD9F2C7B9C50001CDA49 /* README.md */,
 				D70BBD8D2C7B7E24001CDA49 /* toggle-dock-icon */,
 				D70BBD8C2C7B7E24001CDA49 /* Products */,
 			);
@@ -56,7 +57,6 @@
 				D70BBD8E2C7B7E24001CDA49 /* App.swift */,
 				D70BBD922C7B7E25001CDA49 /* Assets.xcassets */,
 				D70BBD972C7B7E25001CDA49 /* toggle_dock.entitlements */,
-				D70BBD9F2C7B9C50001CDA49 /* README.md */,
 			);
 			path = "toggle-dock-icon";
 			sourceTree = "<group>";
