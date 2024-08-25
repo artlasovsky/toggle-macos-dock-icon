@@ -22,7 +22,7 @@ struct ContentView: View {
     @State private var counter: Int = 0
     var body: some View {
         VStack {
-            Button("Hide Dock Icon") {
+            Button("Hide or Show Dock Icon") {
                 NSApplication.toggleActivationPolicy()
             }
             /// The app's window should remain active even when the dock icon is hidden or shown.
