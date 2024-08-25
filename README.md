@@ -20,3 +20,8 @@ If a different application is in the background, the app's windows will behave a
 ## Usage
 - Use "Hide/Show Dock Icon" button to toggle dock icon visibility
 - Try to use Option + B shortcut to increment the counter, to make sure that window still handle keyboard events
+
+
+## Demo Video
+https://github.com/user-attachments/assets/a2bda481-5a27-47ad-a919-9c395727f4bf
+
